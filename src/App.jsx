@@ -7,7 +7,7 @@ function App() {
   
     <ColorPicker/> 
 
-  )
+  );
 }
 
 export default App
